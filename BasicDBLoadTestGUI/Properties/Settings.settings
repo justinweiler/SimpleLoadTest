@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BasicDBLoadTestGUI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DefaultSQLConxn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=tcp:YOURSERVER; Initial Catalog=PerfTest; User Id=testUser; Password=pezhead123</Value>
+    </Setting>
+    <Setting Name="MulticastIP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">239.192.1.255:42000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
